@@ -1,0 +1,5 @@
+.env*
+.vercel
+.gitignore
+README.md
+images/screenshots/mk-*.webp
