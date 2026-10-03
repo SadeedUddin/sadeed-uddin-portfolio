@@ -2,3 +2,4 @@
 .env*
 # AI-generated performance graphics: kept off GitHub and the live site
 images/screenshots/mk-*.webp
+.wrangler

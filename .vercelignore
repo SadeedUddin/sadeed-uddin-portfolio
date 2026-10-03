@@ -3,3 +3,5 @@
 .gitignore
 README.md
 images/screenshots/mk-*.webp
+_headers
+.wrangler
